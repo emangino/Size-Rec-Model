@@ -1,4 +1,4 @@
-# Size-Rec-Model
+# Size Rec Model - Python & ModCloth
 Use Kaggle ModCloth Fit Data to create size recommendation model
 
 
